@@ -1,3 +1,6 @@
+//https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620/1?page=1&company=Amazon&sortBy=submissions
+
+
 //{ Driver Code Starts
 import java.io.*;
 import java.util.*;
